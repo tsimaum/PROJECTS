@@ -1,2 +1,2 @@
 # PROJECTS
-Practical Projects for studies
+This repositorie is for practical projects in the Data Analysis field.
